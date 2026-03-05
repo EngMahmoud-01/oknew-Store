@@ -1,3 +1,6 @@
 [submodule "delivery"]
 	path = delivery
 	url = https://github.com/EngMahmoud-01/delivery.git
+[submodule "admin"]
+	path = admin
+	url = https://github.com/EngMahmoud-01/admin.git
