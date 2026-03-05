@@ -4,3 +4,6 @@
 [submodule "admin"]
 	path = admin
 	url = https://github.com/EngMahmoud-01/admin.git
+[submodule "oknew"]
+	path = oknew
+	url = https://github.com/EngMahmoud-01/oknew.git
